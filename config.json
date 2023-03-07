@@ -1,0 +1,7 @@
+{
+	"serverAppWebSocketUrl": "http://localhost/teacher",
+	"settingWatchFiles":{
+		"excludeFilesWith": ["node_modules", "package-lock.json"],
+		"includeFilesWithExt": [".js", ".json", ".css", ".html"]
+	}	
+}

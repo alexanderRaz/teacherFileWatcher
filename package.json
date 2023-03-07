@@ -1,0 +1,15 @@
+{
+  "name": "teacherfilewatcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Razygraev <rozaa@yandex.ru> (https://github.com/alexanderRaz)",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "socket.io-client": "^4.5.4"
+  }
+}
